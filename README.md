@@ -2,8 +2,6 @@
 
 # 🌟 Mohammad Owais Raza - Tech Enthusiast & Aspiring Machine Learning Engineer 🌟
 
-![Portrait](https://github.com/Owaisraza12123/Owaisraza12123/raw/main/WhatsApp%20Image%202024-11-24%20at%2012.29.48_4a8525ac.jpg)
-
 [![GitHub followers](https://img.shields.io/github/followers/Owaisraza12123?label=Follow&style=social)](https://github.com/Owaisraza12123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-owais-raza-2a33bb282/)
 
 ## 👋 Hello, World!
