@@ -8,7 +8,6 @@ I'm Mohammad Owais Raza, an 18-year-old college student currently pursuing a B.E
 
 ### 🚀 About Me
 
-- 🔭 **Currently Working On:** Building my portfolio website and exploring backend development with REST API and Firebase.
 - 🌱 **Currently Learning:** Python and diving deeper into various programming languages.
 - 👯 **Looking to Collaborate On:** Open-source projects, hackathons, and any exciting tech innovations.
 - 🤔 **Ask Me About:** Python, AI/ML, tech trends, and gaming.
